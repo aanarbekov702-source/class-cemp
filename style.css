@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+.header-a1 {
+    display: flex;
+    gap: 40px;
+}
+.conteiner {
+  display: flex;
+  justify-content: center;
+  /* padding-top: */
+}
